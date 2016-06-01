@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo Hunt</string>
+    <string name="title_activity_picture">Picture</string>
+    <string name="title_activity_about">About</string>
+</resources>
